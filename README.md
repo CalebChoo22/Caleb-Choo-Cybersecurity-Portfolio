@@ -1,14 +1,12 @@
 # Hello, I'm Caleb Choo
 <a href="https://www.linkedin.com/in/calebchoo22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hi, I am currently studying Computer Information Systems and Technology at The University of Texas at Dallas. I will graduate with a Computer Information Systems and Technology Bachelor in 2027. I am deeply interested in cybersecurity and dedicated to keeping organizations safe from cyber attacks.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My love for technology has led me to develop a passion for cybersecurity, and I am now eager to enter this field. I am currently aiming to join a company as a cybersecurity intern this summer, where I can continue to learn from my coworkers and peers about this amazing field.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
