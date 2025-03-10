@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/calebchoo22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Hi, I am currently studying Computer Information Systems and Technology at The University of Texas at Dallas. I will graduate with a Computer Information Systems and Technology Bachelor in 2027. I am deeply interested in cybersecurity and dedicated to keeping organizations safe from cyber attacks.
+Hi, I am currently majoring in Computer Information Systems and Technology at The University of Texas at Dallas. I plan to graduate with a cybersecurity track in 2027. I am deeply interested in cybersecurity and dedicated to keeping organizations safe from cyber attacks.
 
 ## Objective
 
